@@ -1,4 +1,4 @@
-# MultiFactor Authentication in Speing Boot
+# MultiFactor Authentication in Spring Boot
 
 ## Step 1 Generate QR code
 ![Generate QR code](img/1.png)
