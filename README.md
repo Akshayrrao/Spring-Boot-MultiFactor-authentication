@@ -1,10 +1,10 @@
 # MultiFactor Authentication in Speing Boot
 
-## Generate QR code
+## Step 1 Generate QR code
 ![Generate QR code](img/1.png)
 
-## Scan QR code in any Authenticater App
+## Step 2 Scan QR code in any Authenticater App
 ![Scan QR code](img/2.png)
 
-## verify TOTP
+## Step 3 verify TOTP
 ![verify TOTP](img/3.png)
